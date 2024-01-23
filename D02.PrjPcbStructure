@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=D02-2-00 Circuit Top Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=D02-2-00 Circuit Top Sheet.SchDoc|Designator=Power|SchDesignator=Power|FileName=D02-2-00 Circuit Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=D02-2-00 Circuit Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=D02-2-00 Circuit Top Sheet.SchDoc|Designator=Translators|SchDesignator=Translators|FileName=D02-2-00 Logic Level Translators.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=D02-2-00 Logic Level Translators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
